@@ -1,0 +1,11 @@
+# Build output
+/build/
+
+# Toolchain artifacts (in case they appear outside /build)
+*.o
+*.d
+*.elf
+*.map
+
+# Editor settings (optional, if you don’t want workspace-specific settings committed)
+.vscode/
