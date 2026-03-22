@@ -1,5 +1,6 @@
 # Build output
 /build/
+_pico-theme-loader.nds
 
 # Toolchain artifacts (in case they appear outside /build)
 *.o
