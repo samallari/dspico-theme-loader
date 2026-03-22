@@ -25,7 +25,7 @@ Important: This app does not download themes. You still need to copy theme folde
   - `_pico-theme-loader.nds`
 
 ## Quick setup (for most users)
-1. Download or build `_pico-theme-loader.nds`.
+1. [Download](https://github.com/samallari/dspico-theme-loader/releases/download/v0.1.0/_pico-theme-loader.nds) or build `_pico-theme-loader.nds`.
 2. Copy `_pico-theme-loader.nds` to the root of your SD card.
 3. Make sure your themes are in `_pico/themes`.
 4. Put the SD card back in your DS and start Pico Theme Loader.
