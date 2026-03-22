@@ -1,6 +1,13 @@
 # DSPico Theme Loader
+Pico Theme Loader is a small Nintendo DS app that lets you switch themes on the [Pico Launcher](https://github.com/LNH-team/pico-launcher/) by LNH Team.
 
-Pico Theme Loader is a small Nintendo DS app that lets you switch Pico Launcher themes directly on your DS.
+## Screenshots
+
+| | |
+|---|---|
+| ![Theme Selection 1](docs/screenshot1.png) | ![Theme Selection 2](docs/screenshot2.png) |
+| Credits: LNH Team | Credits: [GBATemp user Noods](https://gbatemp.net/download/pico-launcher-windows-98-theme.39719/) |
+
 
 ## What this does
 - Shows a list of themes already on your SD card.
